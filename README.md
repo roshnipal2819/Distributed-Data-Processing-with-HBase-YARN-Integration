@@ -26,6 +26,6 @@ A minimal setup to demonstrate distributed data processing using **Apache HBase*
 ## ▶️ Usage
 
 ```bash
-python data_processing.py     # Run Spark job  
-python hbase_operations.py    # Interact with HBase  
+python data_processing.py    
+python hbase_operations.py  
 ```
